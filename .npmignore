@@ -4,3 +4,9 @@
 logs
 *.log
 npm-debug.log*
+
+cordova-plugin-qrscanner-*.tgz
+package-upload.js
+package-upload.sh
+.nvmrc
+.tests
